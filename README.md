@@ -17,7 +17,7 @@
 💻 I develop applications using the **MERN stack** (MongoDB, Express.js, React, Node.js)  
 📱 Mobile development enthusiast — I’ve built projects with **React Native** and **Flutter**  
 🌱 Always exploring new tools, frameworks, and creative solutions  
-⚡ Fun fact: I love building things that are both **aesthetic** and **fun**  
+⚡ Fun fact: I enjoy designing apps that are as fun to use as they are to look at.  
 
 ---
 
