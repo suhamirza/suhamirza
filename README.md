@@ -27,7 +27,7 @@
 
 ---
 
-## 💼 Featured Projects  
+## 💼 My Featured Projects  
 
 ### **📌 SaaS Task Management & Collaboration Tool**  
 A cloud-based platform for **task tracking**, **real-time collaboration**, **file sharing**, and **real-time chat** — designed as my graduation project.  
@@ -99,8 +99,7 @@ A special interactive **desktop app experience** built for Valentine’s Day —
 ---
 
 ## 📊 GitHub Stats  
-![Suha's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhamirza&show_icons=true&theme=dracula)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suhamirza&theme=dracula)  
+![Suha's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhamirza&show_icons=true&theme=dracula)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suhamirza&theme=dracula)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhamirza&layout=compact&theme=dracula)  
 
 ---
