@@ -5,14 +5,13 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Mobile+Dev+Enthusiast;Aesthetic+Lover&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Mobile+Dev+Enthusiast;Aesthetic+Lover&center=true&width=500&height=50&color=ff8aaa">
   </a>
 </p>
 
-
 ---
 
-## 🚀 About Me  
+## 🎀 About Me  
 🎓 Graduated from **Istanbul Aydın University** as a Software Engineer  
 💻 I develop applications using the **MERN stack** (MongoDB, Express.js, React, Node.js)  
 📱 Mobile development enthusiast — I’ve built projects with **React Native** and **Flutter**  
@@ -30,28 +29,20 @@ A cloud-based platform for **task tracking**, **real-time collaboration**, **fil
 **Tech:** MERN Stack, WebSockets, Cloud Deployment  
 🔗 [View Repo](https://github.com/suhamirza/gradproject)
 
----
-
 ### **💇 Salon Booking Platform**  
 A full-stack web platform for salons to manage **guest bookings**, with an **admin panel** to view and manage appointments.  
 **Tech:** Node.js, Express, Bootstrap, MongoDB  
 🔗 [View Repo](https://github.com/suhamirza/suhamirza.github.io) | [Live Demo](https://suhamirza.github.io)
-
----
 
 ### **⏳ Pomodoro Mobile App**  
 A productivity timer app to help users work in **focused intervals** with breaks in between.  
 **Tech:** React Native, Expo  
 🔗 [View Repo](https://github.com/suhamirza/pomodoro-mobile)
 
----
-
 ### **📖 Author Landing Page**  
 A sleek, responsive landing page built for an author’s upcoming book release — featuring a gold and sage green theme, elegant typography, and a modern, mobile-friendly design.  
 **Tech:** React, Tailwind CSS, JavaScript  
 🔗 [View Repo](https://github.com/suhamirza/author-landing-page) | [Live Demo](https://hayatkhantheauthor.com)
-
----
 
 ### **💌 Valentine’s Day Surprise Project**  
 A special interactive **desktop app experience** built for Valentine’s Day — combining animations and art I created, personalized messages, and playful UI to create a memorable gift.  
