@@ -19,11 +19,7 @@
 🌱 Always exploring new tools, frameworks, and creative solutions  
 ⚡ Fun fact: I enjoy designing apps that are as fun to use as they are to look at.  
 
----
-
-## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suhamirza)  
-![GitHub Followers](https://img.shields.io/github/followers/suhamirza?style=for-the-badge&logo=github)  
+You can check out my work or connect with me on [LinkedIn](https://www.linkedin.com/in/suha-mirza-25b881196/).
 
 ---
 
@@ -99,7 +95,7 @@ A special interactive **desktop app experience** built for Valentine’s Day —
 ---
 
 ## 📊 GitHub Stats  
-![Suha's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhamirza&show_icons=true&theme=dracula)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suhamirza&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhamirza&layout=compact&theme=dracula)  
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhamirza&show_icons=true&theme=dracula" alt="Suha's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhamirza&layout=compact&theme=dracula" alt="Top Languages" height="165"/>
+</p>
