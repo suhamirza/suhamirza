@@ -26,7 +26,8 @@ You can check out my work or connect with me on [LinkedIn](https://www.linkedin.
 
 ### **📌 SaaS Task Management & Collaboration Tool**  
 A cloud-based platform for **task tracking**, **real-time collaboration**, **file sharing**, and **real-time chat** — designed as my graduation project.  
-**Tech:** MERN Stack, WebSockets, Docker, Nginx 
+**Tech:** MERN Stack, WebSockets, Docker, Nginx
+
 🔗 [View Repo](https://github.com/suhamirza/gradproject)
 
 ### **💇 Salon Booking Platform**  
