@@ -49,7 +49,7 @@ A sleek, responsive landing page built for an author’s upcoming book release �
 A special interactive **desktop app experience** built for Valentine’s Day — combining animations and art I created, personalized messages, and playful UI to create a memorable gift.  
 **Tech:** HTML, CSS, JavaScript, ElectronJS
 
-🔗 [View Repo](https://github.com/suhamirza/valentinesProject) 
+🔗 [View Repo](https://github.com/suhamirza/valentinesProject) | [Live Preview Video](https://www.linkedin.com/posts/suha-mirza-25b881196_softwaredevelopment-electronjs-creativecoding-activity-7295857096594530307-LfU_?utm_source=share&utm_medium=member_android&rcm=ACoAAC4MECcBqQW61dSXoZoMeUbkAphapJy5L3c)
 
 ---
 
